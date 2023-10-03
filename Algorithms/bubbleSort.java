@@ -2,6 +2,7 @@
 1. Bubble sort is the sorting algorithm used to sort the elements in ascending order or descending order. 
 2. It is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
 3. Total number of comparison steps are (n-1) times where n is number of elements.
+4. Time Complexity => o(n^2)
 */
 
 class bubbleSort{
