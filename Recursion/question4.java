@@ -21,6 +21,7 @@ class question4 {
         int base = sc.nextInt();
         System.out.print("Enter the exponent: ");
         int exponent = sc.nextInt();
+        sc.close();
         System.out.println("Result: " + power(base, exponent));
     }
 }
