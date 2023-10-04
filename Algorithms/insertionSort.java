@@ -1,6 +1,7 @@
 /* 
 1. Insertion sort is the sorting method in which our complete array is divided into two parts: Sorted array and Unsorted array.
 2. Here we will compare the 1st element of unsorted part with all the element of sorted part till the length of sorted part and place the element in its right place in sorted part.
+3. Time complexity => o(n^2).
 */
 
 class insertionSort {
