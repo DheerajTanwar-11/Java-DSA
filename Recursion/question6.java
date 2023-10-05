@@ -1,3 +1,5 @@
+
+// Question6
 import java.util.*;
 
 class question6 {
