@@ -1,0 +1,11 @@
+1. Collection Framework in java is the collection of predefined datastructures which are ready to use.
+2. The Collection framework represents a unified architecture for storing and manipulating a group of objects. It has:
+        *Interfaces and its implementations, i.e., classes
+        *Algorithm
+3. Java.util package containes all the classes and interfaces for the Collection Framework.
+4. Heierarchy of the Collection Framework:  
+    List Interface: ArrayList, LinkedList, Stack, Vector
+    Queue Interface: PriorityQueue, Deque, ArrayQueue.
+    Set Interface: HashSet, LinkedHashSet
+    Map Interface: HashMap, LinkedHashMap, TreeMap, HashTable
+5. Common methods in Collection Framework: Add, Remove, AddAll, RemoveAll, Clear, Size, Iterator.
