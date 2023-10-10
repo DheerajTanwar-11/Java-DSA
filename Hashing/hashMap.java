@@ -1,3 +1,10 @@
+/*
+1. HashMap is a datastructure that uses hash function to store the key value pairs.
+2. Common methods/functions in HashMap => put, get, containsKey, size, remove, keySet.
+3. Internally HashMap is implemented as Array of LinkedList. 
+4. Form changing of Data is knows as Hashing.
+*/
+
 package Hashing;
 
 import java.util.*;
